@@ -30,31 +30,6 @@ Create a template for your project
 
 npm create vite@latest
 
-##### #### ### The project structure is organized as follows:
-
-css
-Copy code
-handyperson-frontend/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── Footer.js
-│   │   └── ...
-│   ├── pages/
-│   │   ├── HomePage.js
-│   │   ├── ServicePage.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-├── README.md
-└── ...
-Available Scripts
-In the project directory, you can run:
 
 npm start: Runs the app in development mode.
 npm build: Builds the app for production to the build folder.
